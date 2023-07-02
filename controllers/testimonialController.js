@@ -22,7 +22,7 @@ const guardarTestimonial = async (req, res) => {
     }
 
     //console.log(req.body);
-    console.log(errores);
+    //console.log(errores);
 
     if(errores.length > 0) {
 
